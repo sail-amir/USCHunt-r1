@@ -1,1 +1,0 @@
-GMAuctionSafeERC20

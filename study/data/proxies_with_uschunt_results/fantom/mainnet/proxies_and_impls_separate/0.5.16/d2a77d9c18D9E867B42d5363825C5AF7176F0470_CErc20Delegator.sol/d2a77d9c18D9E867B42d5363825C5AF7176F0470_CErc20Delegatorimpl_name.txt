@@ -1,1 +1,0 @@
-CCollateralCapErc20Delegate
